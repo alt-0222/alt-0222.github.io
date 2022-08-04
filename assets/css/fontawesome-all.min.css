@@ -3212,6 +3212,10 @@
     content: "\f5fc"
 }
 
+.fa-laptop-file:before {
+    content: "\e51d";
+}
+
 .fa-laptop-house:before {
     content: "\e066"
 }
